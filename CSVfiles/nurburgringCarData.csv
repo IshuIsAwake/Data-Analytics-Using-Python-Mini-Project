@@ -1,0 +1,55 @@
+﻿Car,Lap time,PS,KG,0-100,0-200,0-300,top speed,Est. downforce @ 200 kph,Est. downforce @ 250 kph,Est. downforce @ 300 kph,Drivetrain,Powertrain,Aspiration
+Mercedes - AMG One,6.29.09,1063,1620,2.7,7,15.6,352,752,1000,1352,AWD,Hybrid,Turbocharged
+Porsche 911 GT2 RS Manthey Performance Kit (991) ,6.40.30,700,1420,2.6,7.8,21.5,343,469,621,806,RWD,ICE,Turbocharged
+AMG GT Black Series,6.48.05,730,1637,2.8,8.3,26.7,352,449,600,740,RWD,ICE,Turbocharged
+Corvette ZR1X ZTK Package,6.49.27,1267,1794,2.2,5.8,12.4,225 mph,381,484,608,AWD,Hybrid,Turbocharged
+Porsche 911 GT3 RS (992) specs,6.49.30,585,1480,2.6,8.3,,296,509,785,988,RWD,ICE,Natural Aspiration
+Corvette ZR1 ZTK Package,6.50.76,1079,1701,2.2 mph 60,5.9 mph 120,16.0 mph 180,362,281,426,608,RWD,ICE,Turbocharged
+Ford Mustand GTD,6.52.07,814,1772,2.8 mph 60,10.2 mph 130,21.2 mph 170,325,422,659,949,RWD,ICE,Supercharged
+Porsche 911 GT3 RS Manthey Performance Kit (991 facelift),6.53.34,560,1400,2.7,9.2,,285,355,555,765,RWD,ICE,Natural Aspiration
+Porsche 911 GT3 Manthey Performance Kit (992),6.54.74,550,1423,2.7,9.4,29,318,330,470,560,RWD,ICE,Natural Aspiration
+Porsche 911 GT3 (992 facelift),6.55.29,550,1427,2.8,9.4,29,314,300,450,520,RWD,ICE,Natural Aspiration
+YangWang U9 Xtreme,6.59.16,3018,2480,,,,496,,,,AWD,Electric,Electric
+Porsche 911 GT3 (992),6.59.93,500,1646,2.9,10.2,,320,353,437,583,RWD,ICE,Natural Aspiration
+Porsche 718 Cayman GT4 RS Manthey Performance (982),7.03.12,500,1645,3,11.6,27.9 mph 170,315,264,355,424,RWD,ICE,Natural Aspiration
+Porsche 911 Turbo S,7.03.92,711,1737,2.4,8.4,23.7,322,310,450,530,AWD,ICE,Turbocharged
+Xiaomi SU7 Ultra,7.04.96,1547,2360,2.4,5.7,16.2,346,,,,AWD,Electric,Electric
+Rimac Nevera,7.05.30,1941,2150,1.8,4.4,9.2,415,130,202,292,AWD,Electric,Electric
+Porsche Taycan Turbo GT Weissach Package,7.07.55,1108,2259,2.2,6.4,20.1,305,121,200,295,AWD,Electric,Electric
+Porsche 718 Cayman GT4 RS,7.09.30,500,1349,3,10,30.2,315,199,255,323,RWD,ICE,Natural Aspiration
+Corvette Z06 Z07 Package,7.11.83,679,1666,2.6 mph 60,8.7 mph 120,24.4 mph 170,322,,,,RWD,ICE,Natural Aspiration
+Porsche 911 Carrera GTS,7.36.93,500,1537,2.8,9.7,27.3,312,130,226,448,RWD,Hybrid,Turbocharged
+BMW M4 CSL,7.48.14,521,1519,3.4,10.3,33,307,9,10,12,RWD,ICE,Turbocharged
+Lamborghini Huracán Performante,6.56.45,650,1662,2.5,10.6,27.6,328,258,436,531,AWD,ICE,Natural Aspiration
+Mercedes benz amg gtr,7.15.02,600,1437,3.2,10.8,31.6,319,200,289,456,RWD,ICE,Turbocharged
+Ferrari 488 gtb,7.21.63,670,1667,3.2,10.1,23.9,335,205,325,461,RWD,ICE,Turbocharged
+Nissan GT-R (R35 530 PS),7.26.70,630,1867,3.2,11.1,37,315,70,120,200,AWD,ICE,Turbocharged
+Lamborghini Aventador LP700-4,7.29.00,650,1885,3.1,10.6,23.5,354,65,90,131,AWD,ICE,Natural Aspiration
+McLaren MP4-12C,7.28.00,600,1957,3.5,10.7,31,333,64,80,120,RWD,ICE,Turbocharged
+McLaren 650 S Spider,7.25.00,620,1889,3.5,10.6,23.5,329,64,100,144,RWD,ICE,Turbocharged
+Lexus LFA Nurburgring Package,7.14.64,590,1706,3.7,11.2,21.5,326,82,128,184,RWD,ICE,Natural Aspiration
+Ferrari F12 Berlinetta,7.33.00,640,2146,3.5,10,20.6,345,103,152,217,RWD,ICE,Natural Aspiration
+Murcielago LP 670-4 SV,7.40.31,610,2183,3.5,9.9,29.7,342,102,135,202,AWD,ICE,Natural Aspiration
+Porsche 919 Hybrid Evo,5.19.55,1160,829,1.8,4.1,8.5,369,900,1600,2400,AWD,Hybrid,Turbocharged
+Volkswagen IDR,6.05.36,680,1100,2.25,4.5,,270,650,1200,,AWD,Electric,Electric
+Lamborghini Diablo SuperVeloce,8.09.00,530,1530,3.8,12.5,32,329,0,0,0,AWD,ICE,Natural Aspiration
+Porsche Taycan Turbo S,7.33.00,761,2295,2.8,9.6,,260,0,0,0,AWD,Electric,Electric
+Hyundai Ioniq 5 N,7.45.59,620,2250,3.7,11,,260,0,0,0,AWD,Electric,Electric
+Kia EV6 GT,7.47.50,585,2145,3.5,12,,260,0,0,0,AWD,Electric,Electric
+Renault Mégane RS Trophy,7.54.00,300,1430,5.7,18,,260,0,0,0,FWD,Electric,Electric
+Audi e-tron GT RS,7.42.34,646,2340,3.3,10.6,,250,0,0,0,AWD,Electric,Electric
+BMW i4 M50,8.07.60,544,2285,3.9,18.6,,225,0,0,0,AWD,Electric,Electric
+Porsche Taycan 4S,8.07.00,571,2295,4,17.8,,250,0,0,0,AWD,Electric,Electric
+Tesla Model 3 Performance,8.10.00,483,1847,3.3,17.8,,261,0,0,0,AWD,Electric,Electric
+Mercedes-AMG EQS 53 4MATIC+,8.16.78,666,2655,3.4,19.6,,250,0,0,0,AWD,Electric,Electric
+Jaguar I-PACE,8.43.00,400,2208,4.8,,,199,0,0,0,AWD,Electric,Electric
+Tesla Model S Plaid,7.25.231,1020,2162,2.1,6.7,14.9,322,0,0,0,AWD,Electric,Electric
+Alfa Romeo Giulia Quadrifoglio,07.39.63,510,1580,3.9,13.8,31.9,307,0,0,0,RWD,ICE,Turbocharged
+Chevrolet Camaro SS (6th Gen),07.54.79,455,1500,4,15.5,,280,0,0,0,RWD,ICE,Natural Aspiration
+Honda Civic Type R (FK8),07.44.88,420,1380,5.8,17.4,,272,0,0,0,FWD,ICE,Turbocharged
+Renault Mégane RS Trophy,07.54.00,400,1430,5.7,17.9,,260,0,0,0,FWD,ICE,Turbocharged
+Volkswagen Golf GTI Clubsport S,07.49.23,410,1355,5.8,17.2,,265,0,0,0,FWD,ICE,Turbocharged
+Toyota GR Yaris,08.09.00,361,1280,5.5,21.2,,230,0,0,0,AWD,ICE,Turbocharged
+BMW M2 Competition (F87),07.52.90,510,1625,4.2,19.8,,280,0,0,0,RWD,ICE,Turbocharged
+Porsche 718 Cayman (Base),07.55.22,500,1405,5.1,18.4,,275,0,0,0,RWD,ICE,Turbocharged
+Audi RS3 (8V),07.40.00,500,1595,4.1,18.8,,280,0,0,0,AWD,ICE,Turbocharged
